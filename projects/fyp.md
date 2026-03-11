@@ -27,8 +27,8 @@ The system architecture outlines the workflow for developing a hybrid AOA–TDOA
 
 ### Project Overall Flowchart
 <p align="center">
-  <img src="../images/Methodology1.png" width="400">
-  <img src="../images/Methodology2.png" width="400">
+  <img src="../images/Methodology1.png" width="500">
+  <img src="../images/Methodology2.png" width="500">
 </p>
 <p align="justify">
 The flowchart illustrates the process of collecting AOA and TDOA measurements from multiple anchor nodes, followed by position estimation through the hybrid localization algorithm. The algorithm combines angular and time-difference information to improve localization accuracy compared to single-technique methods.
