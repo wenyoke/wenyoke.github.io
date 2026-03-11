@@ -18,7 +18,7 @@ I am an Electronics Engineering graduate with strong interest in embedded system
 ### Enhancing Privacy in Location-Based Services Using a Hybrid AOA-TDOA Positioning Technique (Final Year Project) | iNOTEK Series I 2026 Silver Award
 This project develops a privacy-aware localization framework for Location-Based Services by combining the Angle of Arrival and Time Difference of Arrival methods. Simulations in MATLAB demonstrate improved positioning accuracy while enabling a proximity-based access mechanism to protect sensitive location information.
 
-[View Project](projects/fyp)
+[View Project](projects/fyp.md)
 
 ---
 
