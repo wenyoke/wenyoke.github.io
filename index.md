@@ -22,37 +22,52 @@ This project develops a privacy-aware localization framework for Location-Based 
 
 ---
 
-### Automated Water Quality Monitoring System for Pipelines
+### Automated Water Quality Monitoring System for Pipelines (Integrated Design Project) | iNOTEK Series 1 2025 Silver Award
 This project implements a sensor-based monitoring system to measure key water quality parameters, including pH, turbidity, and temperature in pipeline environments. The collected data is processed by a microcontroller and displayed in real time on an LCD interface, with LEDs serving as indicators for immediate user monitoring.
 
 [View Project](projects/water_quality)
 
 ---
 
-### Hybrid AOA–TDOA Localization Framework
-MATLAB simulation framework for a privacy-aware hybrid localization algorithm combining Angle of Arrival (AOA) and Time Difference of Arrival (TDOA).
+### Poomsae Marking System
+This project implements a microcontroller-based scoring system for Taekwondo Poomsae competitions, where judges input scores through push buttons connected to embedded devices. The scoring data is transmitted via serial communication to a Python graphical interface that records scoring history and computes the final results.
 
 [View Project](projects/localization_project)
+
+---
+
+## Internship Experience
+
+### IIOTSME Sdn. Bhd.
+
+---
+
+### AIMFLEX Systems Sdn. Bhd.
+
+---
+
+## Coursework Group Project
+to be updated...
 
 ---
 
 ## Skills
 
 ### Programming
-- C / C++
+- C
 - Python
 - MATLAB
 
 ### Embedded Systems
-- Arduino
+- Arduino UNO/NANO
 - ESP32
+- STM32F446RE
 - Sensor Integration
-- Serial Communication
 
 ### Tools
-- Git
-- NI LabVIEW
-- NI TestStand
+- EasyEDA
+- Tinkercad
+- Soldering
 
 ---
 
@@ -66,6 +81,6 @@ Download my resume here:
 
 ## Contact
 
-GitHub: https://github.com/wenyoke  
+Phone: +60167958843 
 Email: wenyokeang02@gmail.com  
-LinkedIn: your LinkedIn profile
+LinkedIn: www.linkedin.com\in\ang-wen-yoke-undefined-184103248
