@@ -92,6 +92,32 @@ Simulation results demonstrate that the hybrid AOA–TDOA framework improves loc
   Figure 6: Hybrid Localization Method with Non-Line-Of-Sight (NLOS) errors injected
 </p>
 
+### Root Mean Square Error (RMSE) & Cumulative Distribution Function (CDF) Analysis
+
+<p align="center">
+  <img src="../images/AverageRMSEAOA.png" width="300">
+  <img src="../images/AverageRMSETDOA.png" width="303">
+  <img src="../images/AverageRMSEHYBRID.png" width="300">
+</p>
+<p align="center">
+  Average RMSE VS Number of Base Stations for
+</p>
+<p align="center">
+  Figure 7: AOA | Figure 8: TDOA | Figure 9: Hybrid
+</p>
+
+<p align="center">
+  <img src="../images/AverageRMSEAOATable.png" width="300">
+  <img src="../images/AverageRMSETDOATable.png" width="303">
+  <img src="../images/AverageRMSEHYBRIDTable.png" width="300">
+</p>
+<p align="center">
+  Average RMSE VS Number of Base Stations for
+</p>
+<p align="center">
+  Figure 10: AOA | Figure 11: TDOA | Figure 12: Hybrid
+</p>
+
 ---
 
 ## Key Skills Demonstrated
