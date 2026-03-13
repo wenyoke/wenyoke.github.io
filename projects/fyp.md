@@ -64,15 +64,33 @@ The localization algorithm was implemented and simulated in MATLAB. Multiple anc
 <p align="justify">
 Simulation results demonstrate that the hybrid AOA–TDOA framework improves localization accuracy compared to single-technique approaches. Performance evaluation using RMSE and cumulative distribution functions shows more reliable positioning while maintaining user privacy constraints.
 </p>
+
+### Angle of Arrival (AOA)
 <p align="center">
-  <img src="../images/AOAconcept.png" width="281">
-  <img src="../images/TDOAconcept.png" width="310">
-  <img src="../images/Hybridconcept.png" width="228">
+  <img src="../images/AOANLOS.png" width="400">
+  <img src="../images/AOANLOSMATLAB.png" width="400">
 </p>
 <p align="center">
-  Figure 1: Angle of Arrival (AOA) | Figure 2: Time Difference of Arrival (TDOA) | Figure 3: Hybrid Localization (AOA & TDOA)
+  Figure 4: Angle of Arrival (AOA) with Non-Line-Of-Sight (NLOS) errors injected
 </p>
 
+### Time Difference of Arrival (TDOA)
+<p align="center">
+  <img src="../images/TDOANLOS.png" width="400">
+  <img src="../images/TDOANLOSMATLAB.png" width="400">
+</p>
+<p align="center">
+  Figure 5: Time Difference of Arrival (TDOA) with Non-Line-Of-Sight (NLOS) errors injected
+</p>
+
+### Hybrid Localization Approach (AOA + TDOA)
+<p align="center">
+  <img src="../images/HYBRIDNLOS.png" width="400">
+  <img src="../images/HYBRIDNLOSMATLAB.png" width="400">
+</p>
+<p align="center">
+  Figure 6: Hybrid Localization Method with Non-Line-Of-Sight (NLOS) errors injected
+</p>
 
 ---
 
