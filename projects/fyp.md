@@ -26,22 +26,23 @@ The system architecture outlines the workflow for developing a hybrid AOA–TDOA
 </p>
 
 ### Project Overall Flowchart
-<p align="center">
-  <img src="../images/Methodology1.png" width="500">
-  <img src="../images/Methodology2.png" width="500">
-</p>
 <p align="justify">
 The flowchart illustrates the process of collecting AOA and TDOA measurements from multiple anchor nodes, followed by position estimation through the hybrid localization algorithm. The algorithm combines angular and time-difference information to improve localization accuracy compared to single-technique methods.
 </p>
+<p align="center">
+  <img src="../images/Methodology1.png" width="471">
+  <img src="../images/Methodology2.png" width="500">
+</p>
 
 ### Proximity-Based Privacy Mechanism
-<p align="center">
-  <img src="../images/PrivacyMechanism.png" width="500">
-</p
 <p align="justify">
 To enhance user privacy, a proximity-based access control mechanism is introduced. Only users within a predefined proximity radius are allowed to obtain more precise location information, while others receive limited or obfuscated location data.
 </p>
+<p align="center">
+  <img src="../images/PrivacyMechanism.png" width="500">
+</p
 
+---
 ---
 
 ## Implementation
@@ -49,22 +50,12 @@ To enhance user privacy, a proximity-based access control mechanism is introduce
 The localization algorithm was implemented and simulated in MATLAB. Multiple anchor nodes were modeled to estimate target position using AOA and TDOA measurements. Performance was evaluated using statistical metrics including RMSE and CDF.
 </p>
 <p align="center">
-  <img src="../images/AOAconcept.png" width="350">
+  <img src="../images/AOAconcept.png" width="281">
+  <img src="../images/TDOAconcept.png" width="310">
+  <img src="../images/Hybridconcept.png" width="228">
 </p>
 <p align="center">
-  Figure 1: Concept of Angle of Arrival (AOA)
-</p>
-<p align="center">
-  <img src="../images/TDOAconcept.png" width="350">
-</p>
-<p align="center">
-  Figure 2: Concept of Angle of Arrival (AOA)
-</p>
-<p align="center">
-  <img src="../images/Hybridconcept.png" width="350">
-</p>
-<p align="center">
-  Figure 3: Concept of Angle of Arrival (AOA)
+  Figure 1: Angle of Arrival (AOA) | Figure 2: Time Difference of Arrival (TDOA) | Figure 3: Hybrid Localization (AOA & TDOA)
 </p>
 
 ---
