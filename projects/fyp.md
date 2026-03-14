@@ -138,7 +138,7 @@ When the input coordinates of the request is out of predefined acceptable range,
 </p>
 
 <p align="center">
-  <img src="../images/ProimityOutOfRangeInput.png" width="500">
+  <img src="../images/ProximityOutOfRangeInput.png" width="500">
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@ When the input coordinates of the request is within the predefined acceptable ra
 </p>
 
 <p align="center">
-  <img src="../images/ProimityWithinRangeInput.png" width="500">
+  <img src="../images/ProximityWithinRangeInput.png" width="500">
 </p>
 
 <p align="center">
@@ -161,9 +161,7 @@ When the input coordinates of the request is within the predefined acceptable ra
 These multiple randomized location requests were generated to simulate malicious requests from unauthorized third parties or hackers around the world. It can be observed that most randomly generated requests (99%) fall outside the proximity boundary. The system successfully identifies requests as accepted or denied based solely on proximity. 
 </p>
 
-<p align="center">
-  <img src="../images/FakeReqSimulation.png" width="500">
-</p>
+
 
 <p align="center">
   Figure 13: Fake Request Simulations
