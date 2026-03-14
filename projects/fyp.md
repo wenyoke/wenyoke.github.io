@@ -132,6 +132,43 @@ Simulation results demonstrate that the hybrid AOA–TDOA framework improves loc
   Figure 10: CDF of RMSE for hybrid AOA & TDOA localization
 </p>
 
+### Proximity Check Analysis for Privacy Enhancement
+<p align="justify">
+When the input coordinates of the request is out of predefined acceptable range, it will be flagged as suspicious and the access is denied. This simulates that unauthorized or distance devices are filtered out without exposing sensitive spatial information.
+</p>
+
+<p align="center">
+  <img src="../images/ProimityOutOfRangeInput.png" width="500">
+</p>
+
+<p align="center">
+  Figure 11: Input Device Location Out of Predefined Range
+</p>
+
+<p align="justify">
+When the input coordinates of the request is within the predefined acceptable range, it falls below the threshold. Then, the requesting device is granted access with no exact position revealed to third party.
+</p>
+
+<p align="center">
+  <img src="../images/ProimityWithinRangeInput.png" width="500">
+</p>
+
+<p align="center">
+  Figure 12: Input Device Location within Predefined Range
+</p>
+
+<p aligh="justify">
+These multiple randomized location requests were generated to simulate malicious requests from unauthorized third parties or hackers around the world. It can be observed that most randomly generated requests (99%) fall outside the proximity boundary. The system successfully identifies requests as accepted or denied based solely on proximity. 
+</p>
+
+<p align="center">
+  <img src="../images/FakeReqSimulation.png" width="500">
+</p>
+
+<p align="center">
+  Figure 13: Fake Request Simulations
+</p>
+
 ---
 
 ## Key Skills Demonstrated
