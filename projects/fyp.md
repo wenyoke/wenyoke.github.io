@@ -11,12 +11,16 @@ This project develops a privacy-aware localization framework for Location-Based 
 Conventional Location-Based Services often require users to share precise location data with service providers, which may expose sensitive personal information. This project investigates how localization techniques can be designed to maintain accurate positioning while protecting user privacy.
 </p>
 
+- Current positioning methods (GPS, Wi-Fi, Cellular) tend to expose user locations to third parties
+- Privacy Risks: User location exposure, unauthorized tracking, misuse of data
+- Motivation: Need for accurate positioning without compromising privacy
+
 ---
 
 ## Proposed Solution
-<p align="justify">
-A hybrid localization algorithm combining Angle of Arrival (AOA) and Time Difference of Arrival (TDOA) was developed to estimate user location more accurately. A proximity-based access control mechanism was also designed to limit the disclosure of precise location information to unauthorized parties.
-</p>
+
+- A hybrid localization algorithm combining AOA and TDOA was developed to estimate user location more accurately.
+- A proximity-based access control mechanism was designed to limit the disclosure of precise location information to unauthorized parties.
 
 ---
 
@@ -112,10 +116,20 @@ Simulation results demonstrate that the hybrid AOA–TDOA framework improves loc
   <img src="../images/AverageRMSEHYBRIDTable.png" width="300">
 </p>
 <p align="center">
-  Average RMSE VS Number of Base Stations for
+  Tabulation of Average RMSE with different number of base stations for
 </p>
 <p align="center">
-  Figure 10: AOA | Figure 11: TDOA | Figure 12: Hybrid
+  Table 1: AOA | Table 2: TDOA | Table 3: Hybrid
+</p>
+
+<p align="justify">
+  - Each curve increases from 0 to 1, implying the cumulative probability of RMSE values where a left-shifted curve represents better localization accuracy and a steeper slope represents more consistent performance. 
+</p>
+<p align="center">
+  <img src="../images/CDFAverageRMSEHYBRID.png" width="300">
+</p>
+<p align="center">
+  Figure 10: CDF of RMSE for hybrid AOA & TDOA localization
 </p>
 
 ---
