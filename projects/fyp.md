@@ -126,7 +126,7 @@ Simulation results demonstrate that the hybrid AOA–TDOA framework improves loc
   - Each curve increases from 0 to 1, implying the cumulative probability of RMSE values where a left-shifted curve represents better localization accuracy and a steeper slope represents more consistent performance. 
 </p>
 <p align="center">
-  <img src="../images/CDFAverageRMSEHYBRID.png" width="300">
+  <img src="../images/CDFAverageRMSEHYBRID.png" width="500">
 </p>
 <p align="center">
   Figure 10: CDF of RMSE for hybrid AOA & TDOA localization
