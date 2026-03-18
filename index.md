@@ -30,7 +30,7 @@ This project develops a privacy-aware localization framework for Location-Based 
 This project implements a sensor-based monitoring system to measure key water quality parameters, including pH, turbidity, and temperature in pipeline environments. The collected data is processed by a microcontroller and displayed in real time on an LCD interface, with LEDs serving as indicators for immediate user monitoring.
 </p>
 
-[View Project](projects/water_quality)
+[View Project](projects/water_quality.md)
 
 ---
 
@@ -39,7 +39,7 @@ This project implements a sensor-based monitoring system to measure key water qu
 This project implements a microcontroller-based scoring system for Taekwondo Poomsae competitions, where judges input scores through push buttons connected to embedded devices. The scoring data is transmitted via serial communication to a Python graphical interface that records scoring history and computes the final results.
 </p>
 
-[View Project](projects/localization_project)
+[View Project](projects/pss.md)
 
 ---
 
