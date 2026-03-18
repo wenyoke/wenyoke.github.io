@@ -34,6 +34,10 @@ The project began with literature review and system planning to determine suitab
 ### Software
 - Sensor Integration using Arduino IDE
 - PCB Design using EasyEDA
+<p align="center">
+  <img src="../images/IDPCircuitSchematic.png" width="400">
+  <img src="../images/IDPPCBDesign.png" width="400">
+</p>
 
 ### Hardware
 - Enclosure Design
