@@ -34,11 +34,11 @@ The project began with literature review and system planning to determine suitab
 ### Software
 - Sensor Integration using Arduino IDE
 <p align="center">
-  <img src="../images/IDPpHSensor.png" width="400">
-  <img src="../images/IDPpHSensorTesting.png" width="400">
-  <img src="../images/IDPpHSensorTesting2.png" width="400">
-  <img src="../images/IDPTurbidityTest.png" width="400">
-  <img src="../images/IDPRGBTesting.png" width="400">
+  <img src="../images/IDPpHSensor.jpg" width="200">
+  <img src="../images/IDPpHSensorTesting.jpg" width="200">
+  <img src="../images/IDPpHSensorTesting2.jpg" width="200">
+  <img src="../images/IDPTurbidityTest.jpg" width="200">
+  <img src="../images/IDPRGBTesting.jpg" width="200">
 </p>
 - PCB Design using EasyEDA
 <p align="center">
@@ -49,17 +49,17 @@ The project began with literature review and system planning to determine suitab
 ### Hardware
 - Enclosure Design
 <p align="center">
-  <img src="../images/IDPHWDraft.png" width="400">
-  <img src="../images/IDPHWEnclosure.png" width="400">
-  <img src="../images/IDPPrototype.png" width="400">
-  <img src="../images/IDPInnerDesign.png" width="400">
+  <img src="../images/IDPHWDraft.jpg" width="200">
+  <img src="../images/IDPHWEnclosure.jpg" width="200">
+  <img src="../images/IDPPrototype.jpg" width="200">
+  <img src="../images/IDPInnerDesign.jpg" width="200">
 </p>
 - PCB Fabrication
 <p align="center">
-  <img src="../images/IDPPCBMeasurement.png" width="400">
-  <img src="../images/IDPPCBTransparentFilm.png" width="400">
-  <img src="../images/IDPPCBFabrication.png" width="400">
-  <img src="../images/IDPPCBDrilling.png" width="400">
+  <img src="../images/IDPPCBMeasurement.jpg" width="200">
+  <img src="../images/IDPPCBTransparentFilm.jpg" width="200">
+  <img src="../images/IDPPCBFabrication.jpg" width="200">
+  <img src="../images/IDPPCBDrilling.jpg" width="200">
 </p>
 - PCB Soldering and Testing
 
