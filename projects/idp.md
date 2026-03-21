@@ -33,6 +33,13 @@ The project began with literature review and system planning to determine suitab
 ## Implementation
 ### Software
 - Sensor Integration using Arduino IDE
+<p align="center">
+  <img src="../images/IDPpHSensor.png" width="400">
+  <img src="../images/IDPpHSensorTesting.png" width="400">
+  <img src="../images/IDPpHSensorTesting2.png" width="400">
+  <img src="../images/IDPTurbidityTest.png" width="400">
+  <img src="../images/IDPRGBTesting.png" width="400">
+</p>
 - PCB Design using EasyEDA
 <p align="center">
   <img src="../images/IDPCircuitSchematic.png" width="400">
@@ -41,14 +48,21 @@ The project began with literature review and system planning to determine suitab
 
 ### Hardware
 - Enclosure Design
-- PCB Fabrication
-- PCB Soldering and Testing
-  
 <p align="center">
-  <img src="../images/AOAconcept.png" width="281">
-  <img src="../images/TDOAconcept.png" width="310">
-  <img src="../images/Hybridconcept.png" width="228">
+  <img src="../images/IDPHWDraft.png" width="400">
+  <img src="../images/IDPHWEnclosure.png" width="400">
+  <img src="../images/IDPPrototype.png" width="400">
+  <img src="../images/IDPInnerDesign.png" width="400">
 </p>
+- PCB Fabrication
+<p align="center">
+  <img src="../images/IDPPCBMeasurement.png" width="400">
+  <img src="../images/IDPPCBTransparentFilm.png" width="400">
+  <img src="../images/IDPPCBFabrication.png" width="400">
+  <img src="../images/IDPPCBDrilling.png" width="400">
+</p>
+- PCB Soldering and Testing
+
 <p align="center">
   Figure 1: Angle of Arrival (AOA) | Figure 2: Time Difference of Arrival (TDOA) | Figure 3: Hybrid Localization (AOA & TDOA)
 </p>
