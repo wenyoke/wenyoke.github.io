@@ -44,8 +44,8 @@ The project began with literature review and system planning to determine suitab
 </p>
 - PCB Design using EasyEDA
 <p align="center">
-  <img src="../images/IDPCircuitSchematic.png" width="400">
-  <img src="../images/IDPPCBDesign.png" width="400">
+  <img src="../images/IDPCircuitSchematic.png" width="450">
+  <img src="../images/IDPPCBDesign.png" width="322">
 </p>
 
 ### Hardware
