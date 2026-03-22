@@ -34,11 +34,13 @@ The project began with literature review and system planning to determine suitab
 ### Software
 - Sensor Integration using Arduino IDE
 <p align="center">
-  <img src="../images/IDPpHSensor.jpg" width="200">
-  <img src="../images/IDPpHSensorTesting.jpg" width="200">
-  <img src="../images/IDPpHSensorTesting2.jpg" width="200">
-  <img src="../images/IDPTurbidityTest.jpg" width="200">
-  <img src="../images/IDPRGBTesting.jpg" width="200">
+  <img src="../images/IDPpHSensor.jpg" width="251">
+  <img src="../images/IDPpHSensorTesting.jpg" width="353">
+  <img src="../images/IDPpHSensorTesting2.jpg" width="265">
+</p>
+<p align="center">
+  <img src="../images/IDPTurbidityTest.jpg" width="250">
+  <img src="../images/IDPRGBTesting.jpg" width="295">
 </p>
 - PCB Design using EasyEDA
 <p align="center">
