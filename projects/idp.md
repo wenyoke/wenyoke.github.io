@@ -1,4 +1,4 @@
-### Integrated Design Project | iNOTEK Series I 2025 Silver Award
+### Integrated Design Project | iNOTEK Series 1 2025 Silver Award
 ## Automated Water Quality Monitoring System for Pipelines
 <p align="justify">
 This project develops a sensor-based monitoring system for water pipelines to measure pH, turbidity, and temperature in real time. The data is processed by a microcontroller and displayed through an LCD interface with LED indicators for immediate monitoring. System testing in a simulated pipeline environment verified the functionality and reliability of the monitoring system.
@@ -51,18 +51,20 @@ The project began with literature review and system planning to determine suitab
 ### Hardware
 - Enclosure Design
 <p align="center">
-  <img src="../images/IDPHWDraft.jpg" width="200">
-  <img src="../images/IDPHWEnclosure.jpg" width="200">
-  <img src="../images/IDPPrototype.jpg" width="200">
-  <img src="../images/IDPInnerDesign.jpg" width="200">
+  <img src="../images/IDPHWDraft.jpg" width="250">
+  <img src="../images/IDPHWEnclosure.jpg" width="224">
+  <img src="../images/IDPPrototype.jpg" width="166">
+  <img src="../images/IDPInnerDesign.jpg" width="295">
 </p>
+
 - PCB Fabrication
 <p align="center">
-  <img src="../images/IDPPCBMeasurement.jpg" width="200">
-  <img src="../images/IDPPCBTransparentFilm.jpg" width="200">
-  <img src="../images/IDPPCBFabrication.jpg" width="200">
-  <img src="../images/IDPPCBDrilling.jpg" width="200">
+  <img src="../images/IDPPCBMeasurement.jpg" width="198">
+  <img src="../images/IDPPCBTransparentFilm.jpg" width="225">
+  <img src="../images/IDPPCBFabrication.jpg" width="160.5">
+  <img src="../images/IDPPCBDrilling.jpg" width="285">
 </p>
+
 - PCB Soldering and Testing
 
 <p align="center">
