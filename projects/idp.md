@@ -24,7 +24,8 @@ This project develops a sensor-based monitoring system for water pipelines to me
 
 ---
 
-### Project Overall Flowchart
+## Project Overall Flowchart
+
 <p align="justify">
 The project began with literature review and system planning to determine suitable hardware components and monitoring parameters. An ESP32-based system was then designed to integrate pH, turbidity, and temperature sensors, followed by circuit construction, coding in Arduino IDE, and system testing. After successful validation, the prototype and PCB design were developed and the project was documented with performance evaluation and analysis.
 </p>
@@ -84,10 +85,11 @@ The project began with literature review and system planning to determine suitab
 
 ## Key Skills Demonstrated
 
-- Wireless localization algorithms
-- MATLAB simulation and modeling
-- Data analysis using RMSE and CDF metrics
-- Privacy-aware system design
+- Embedded Systems Development (Microcontroller-based design using ESP32)
+- Sensor Integration & Calibration (pH, turbidity, temperature)
+- Real-Time Data Acquisition & Monitoring Systems
+- C Programming for Hardware Interfacing
+- System Testing, Validation & Troubleshooting
 
 ## Technologies Used
 
