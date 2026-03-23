@@ -1,4 +1,4 @@
-### Final Year Project | iNOTEK Series I 2026 Silver Award
+### Final Year Project | iNOTEK Series 1 2026 Silver Award
 ## Enhancing Privacy in Location-Based Services Using a Hybrid AOA-TDOA Positioning Technique 
 <p align="justify">
 This project develops a privacy-aware localization framework for Location-Based Services by combining Angle of Arrival and Time Difference of Arrival methods. The hybrid algorithm was implemented in MATLAB to improve positioning accuracy while reducing the exposure of precise user location data.
