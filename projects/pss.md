@@ -31,14 +31,30 @@ The system is designed with multiple microcontroller-based input units assigned 
 # Hardware
 - Built hardware input system using push buttons and microcontrollers (Arduino Nano)
 - Design PCB using EasyEDA and send for fabrication
+<p align="center">
+  <img src="../images/PSSSchematic1.png" width="300">
+  <img src="../images/PSSSchematic2.png" width="300">
+  <img src="../images/PSSPCB1.png" width="300">
+  <img src="../images/PSSPCB2.png" width="300">
+</p>
+
 - Design hardware enclosure using Tinkercad
-
-
+<p align="center">
+  <img src="../images/PSS3DCover.png" width="300">
+  <img src="../images/PSS3DBase.png" width="300">
+</p>
 
 # Software
 - Established serial communication between devices and Python application
 - Developed a multi-page GUI using Tkinter for data entry, scoring, and history tracking
 - Implemented scoring logic including deductions, additions, and averaging across judges
+<p align="center">
+  <img src="../images/PSSSoftware1.png" width="300">
+  <img src="../images/PSSSoftware2.png" width="300">
+  <img src="../images/PSSSoftware3.png" width="300">
+  <img src="../images/PSSSoftware4.png" width="300">
+  <img src="../images/PSSSoftware5.png" width="300">
+</p>
   
 ---
 
