@@ -54,7 +54,15 @@ This project implements a microcontroller-based scoring system for Taekwondo Poo
 ---
 
 ## Coursework Group Project
-to be updated...
+### Auto Lighting System for Street Lights
+<p align="justify">
+This project develops an automated street lighting system using an LDR sensor and the STM32F446RE to detect ambient light and control lighting without manual intervention. Real-time data is transmitted via the ESP8266 ESP-01 to the ThingSpeak dashboard for remote monitoring.
+</p>
+<p align="justify">
+LEDs are used to simulate street lights in the prototype, demonstrating a practical integration of embedded systems and IoT for energy-efficient smart city applications.
+</p>
+
+[View Project](projects/streetlights.md)
 
 ---
 
