@@ -70,6 +70,12 @@ The system successfully automated score calculation, reduced human error, and pr
   <img src="../images/PSSResults2.png" width="380">
 </p>
 
+<p align="center">
+  <img src="../images/PSSTestrun1.png" width="400">
+  <img src="../images/PSSRTestrun2.png" width="380">
+  <img src="../images/PSSRTestrun3.jpeg" width="380">
+</p>
+
 ---
 
 ## Key Skills Demonstrated
