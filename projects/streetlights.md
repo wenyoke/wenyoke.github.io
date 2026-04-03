@@ -60,8 +60,8 @@ Embedded C firmware is developed in STM32CubeIDE to continuously sample ADC data
 The system successfully automates street lighting control, turning lights on during low-light conditions and off during daylight. Real-time data visualization on the IoT dashboard demonstrates reliable system performance and remote accessibility.
 </p>
 <p align="center">
-  <img src="../images/StreetThingSpeak1.png" width="350">
-  <img src="../images/StreetThingSpeak2.png" width="320">
+  <img src="../images/StreetThingSpeak1.png" width="400">
+  <img src="../images/StreetThingSpeak2.png" width="370">
   <img src="../images/StreetResults.jpeg" width="320">
 </p>
 
