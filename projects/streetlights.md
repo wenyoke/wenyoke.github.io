@@ -25,7 +25,7 @@ This project proposes an automated street lighting system that adjusts lighting 
 The system consists of an LDR sensor connected to the STM32F446RE, which processes light intensity data and controls the lighting output. An ESP8266 ESP-01 is used to transmit data to the ThingSpeak for remote monitoring and analysis.
 </p>
 <p align="center">
-  <img src="../images/StreetConcept.png" width="400">
+  <img src="../images/StreetConcept.png" width="500">
 </p>
 
 ---
@@ -36,7 +36,7 @@ The system consists of an LDR sensor connected to the STM32F446RE, which process
 The LDR sensor is connected to an ADC pin of the STM32F446RE, utilizing its 12-bit ADC to convert analog light intensity into digital values. LEDs are driven through GPIO pins to simulate street lighting, while the ESP8266 ESP-01 communicates with the microcontroller via UART (e.g., 115200 baud rate) for wireless data transmission.
 </p>
 <p align="center">
-  <img src="../images/SteetPrototype.png" width="400">
+  <img src="../images/StreetPrototype.jpeg" width="300">
 </p>
 
 ### Software
@@ -45,12 +45,12 @@ Embedded C firmware is developed in STM32CubeIDE to continuously sample ADC data
 </p>
 <p align="center">
   <img src="../images/StreetSW1.png" width="350">
-  <img src="../images/StreetSW2.png" width="350">
-  <img src="../images/StreetSW3.png" width="350">
-  <img src="../images/StreetPing.png" width="350">
-  <img src="../images/StreetTeraTerm.png" width="350">
-  <img src="../images/StreetTroubleshoot.png" width="350">
-  <img src="../images/StreetDashboard.png" width="350">
+  <img src="../images/StreetSW2.png" width="320">
+  <img src="../images/StreetSW3.png" width="320">
+  <img src="../images/StreetPing.jpeg" width="430">
+  <img src="../images/StreetTeraTerm.jpeg" width="280">
+  <img src="../images/StreetTroubleshoot.jpeg" width="470">
+  <img src="../images/StreetDashboard.jpeg" width="375">
 </p>
   
 ---
@@ -60,8 +60,9 @@ Embedded C firmware is developed in STM32CubeIDE to continuously sample ADC data
 The system successfully automates street lighting control, turning lights on during low-light conditions and off during daylight. Real-time data visualization on the IoT dashboard demonstrates reliable system performance and remote accessibility.
 </p>
 <p align="center">
-  <img src="../images/SteetThingSpeak1.png" width="300">
-  <img src="../images/SteetThingSpeak2.png" width="300">
+  <img src="../images/StreetThingSpeak1.png" width="350">
+  <img src="../images/StreetThingSpeak2.png" width="320">
+  <img src="../images/StreetResults.jpeg" width="320">
 </p>
 
 ---
