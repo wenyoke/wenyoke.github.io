@@ -71,9 +71,9 @@ The system successfully automated score calculation, reduced human error, and pr
 </p>
 
 <p align="center">
-  <img src="../images/PSSTestrun1.jpeg" width="420">
+  <img src="../images/PSSTestrun1.jpeg" width="428">
   <img src="../images/PSSTestrun2.jpeg" width="300">
-  <img src="../images/PSSTestrun3.png" width="400">
+  <img src="../images/PSSTestrun3.png" width="420">
 </p>
 
 ---
