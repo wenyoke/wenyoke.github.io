@@ -61,6 +61,9 @@ The system is designed with multiple microcontroller-based input units assigned 
 <p align="justify">
 The system successfully automated score calculation, reduced human error, and provided real-time visualization of scoring and history tracking during competitions.
 </p>
+<p align="center">
+  <img src="../images/PSSVer1&2.jpeg" width="400">
+</p>
 
 ---
 
