@@ -30,7 +30,7 @@ This project develops a privacy-aware localization framework for Location-Based 
 This project implements a sensor-based monitoring system to measure key water quality parameters, including pH, turbidity, and temperature in pipeline environments. The collected data is processed by a microcontroller and displayed in real time on an LCD interface, with LEDs serving as indicators for immediate user monitoring.
 </p>
 
-[View Project](projects/water_quality.md)
+[View Project](projects/idp.md)
 
 ---
 
